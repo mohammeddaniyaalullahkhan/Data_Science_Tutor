@@ -87,6 +87,6 @@ This project is licensed under the **MIT License**.
 ## 📞 Contact
 
 For any queries or contributions, reach out via:
-- **Email**: er.mohammeddaniyaalullahkhan@gmail.com
+- **Email**: mohammeddaniyaalullahkhan@gmail.com
 - **LinkedIn**: [Daniyaalullah](www.linkedin.com/in/daniyaalullah-khan-mohammed-70043620b)
 
